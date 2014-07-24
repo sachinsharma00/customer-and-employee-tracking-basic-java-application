@@ -1,0 +1,5 @@
+Go in specific Directory and make sure driver is in directory of project.java
+type in cmd
+                javac project.java
+then type
+                java -cp .;driver.jar Callmain
